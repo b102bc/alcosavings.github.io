@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "Трезвый счёт — мой прогресс",
+  "short_name": "Трезвый счёт",
+  "description": "Личный трекер экономии и расходов на алкоголь",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e8edf4",
+  "theme_color": "#e8edf4",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
